@@ -17,3 +17,5 @@ This is a simple Rule-Based Chatbot developed using Python. The chatbot responds
 - Regular Expressions (re)
 
 ## Project Structure
+## Author
+Anushka Gupta 
